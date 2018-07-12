@@ -1,5 +1,5 @@
 ---
-- hosts: devB
+- hosts: prodB
   remote_user: root
   sudo: yes
   tasks:
